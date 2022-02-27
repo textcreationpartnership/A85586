@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great conspiracy of the papists, against the worthy members of both Houses of Parliament. And also against the City of London, and generally the whole kingdome. Discovered by divers wicked and bloody letters, which by Gods providence came to light, and was read in the House of Commons the 10. and 11. of January, 1641. With the names of those honourable and worthy members in Parliament. Whose lives they conspire against, and seeke to take away.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85586</idno>
+            <idno type="STC">Wing G1681</idno>
+            <idno type="STC">Thomason E131_14</idno>
+            <idno type="STC">ESTC R22945</idno>
+            <idno type="EEBO-CITATION">99871869</idno>
+            <idno type="PROQUEST">99871869</idno>
+            <idno type="VID">156333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great conspiracy of the papists, against the worthy members of both Houses of Parliament. And also against the City of London, and generally the whole kingdome. Discovered by divers wicked and bloody letters, which by Gods providence came to light, and was read in the House of Commons the 10. and 11. of January, 1641. With the names of those honourable and worthy members in Parliament. Whose lives they conspire against, and seeke to take away.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason copy is bound with items from 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156333:1"/>
+            <pb facs="tcp:156333:1" rendition="simple:additions"/>
+            <p>A GREAT CONSPIRACY OF THE PAPISTS, Againſt the worthy Members of both Houſes of PARLIAMENT.</p>
+            <p>And alſo againſt the City of <hi>London,</hi> and generally the whole Kingdome.</p>
+            <p>Diſcovered by divers wicked and bloody Let<g ref="char:EOLhyphen"/>ters, which by Gods providence came to light, and was read in the Houſe of COMMONS the 10. and 11. of <hi>January,</hi> 1641.</p>
+            <p>With the Names of thoſe Honourable and Worthy Members in PARLIAMENT.</p>
+            <p>Whoſe lives they conſpire againſt, and ſeeke to take away.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156333:2"/>
+            <pb facs="tcp:156333:2"/>
+            <p>A Letter directed to Mr. <hi>Bridg<g ref="char:EOLhyphen"/>man,</hi> the fourth of <hi>Ian.</hi> and a Letter in<g ref="char:EOLhyphen"/>cloſed in it, to one Maſter <hi>Anderton,</hi> were this day read, and orde<g ref="char:EOLhyphen"/>red to be entred.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Worſhipfull, and my much ho<g ref="char:EOLhyphen"/>noured friend <hi>Orlando Bridgeman</hi> Eſquire, and a Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>geſſe of the Parliament, at his Chamber, at the Inner Temple, theſe preſent.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E are your friends, Theſe are to adviſe you to looke to your ſelfe, and to adviſe others of my Lord of <hi>Straffords</hi> friends to take heed, leſt they be involved in the com<g ref="char:EOLhyphen"/>mon Calamity, our adviſe is, to bee gone, to pretend buſineſſe till the great Hubbub be paſſed, Withdraw, leſt you ſuffer among the Puritans, We intreat you to ſend away this incloſed Letter to Mr. <hi>Anderton</hi> incloſed, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſome truſty friend, that it may be car<g ref="char:EOLhyphen"/>ried ſafely without ſuſpition, for it concernes the Common ſafety<g ref="char:punc">▪</g> So deſire your friends in Coven Garden, <hi>Ian. 4.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:156333:3"/>
+                  <head>To the Worſhipfull, and my much ho<g ref="char:EOLhyphen"/>noured friend Mr. <hi>Anderton,</hi> Theſe preſent.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ALthough many deſigns have bin defeated, yet that of <hi>Ireland</hi> holds well. And now our laſt Plot workes as hopefully as that of <hi>Jreland,</hi> we muſt beare with ſomething in the Man, his will is ſtrong enough, as long as he is fed with hopes, the Woman is true to us, and reall, Her Councell about her is very good: J doubt not but to ſend you by the next very joyfull newes, for the preſent, our rich Enemies, <hi>Pym, Hampden, Strode, Hollis,</hi> and <hi>Haſterigg,</hi> are blemiſht, chal<g ref="char:EOLhyphen"/>lenged for no leſſe then Treaſon: before J write next, we doubt not but to have them in the Tower or their heads from their ſhoulders.</p>
+                  <p>The <hi>Solicitor,</hi> and <hi>Fines,</hi> and <hi>Earle</hi> we muſt ſerve with the ſame ſauce: and in the Houſe of the Lords, <hi>Mandevill</hi> is touched, but <hi>Eſſex, Warwick, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ay, Brook,</hi> and <hi>Paget,</hi> muſt follow, or elſe we ſhall not be quiet. <hi>Faulkland</hi> and <hi>Culpepper,</hi> are friends to our ſide, at leaſtwiſe they will doe us no hurt. The Proteſtants and Puritans are ſo di<g ref="char:EOLhyphen"/>vided, that we need not fear them; the Proteſtants in a greater part, will joyn with us, or <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>and Neu<g ref="char:EOLhyphen"/>ters, while the Puritan is ſuppreſſed, if we can bring them under; the Proteſtant will either fall in with us generally, or elſe, if they do not, they
+<pb facs="tcp:156333:3"/>are ſo indifferent, that either by fair, or foul means we ſhall be able to command them.</p>
+                  <p>The miſchievous Londoners, and Apprentices, may doe us ſome hurt for preſent, but we need not much fear them, they do nothing orderly but tu<g ref="char:EOLhyphen"/>multuouſly: Therefore we doubt not but to have them under command after one brunt, for our Par<g ref="char:EOLhyphen"/>ty is ſtrong in the City, eſpecially <hi>Holborne,</hi> the new Buildings, and <hi>Weſtminſter,</hi> we are afraid of nothing, but the <hi>Scots</hi> appearing againe, but we have made a party there, at the Kings laſt being there, which will hold their hands behind them, while we Act our Parts at home; Let us acquite our ſelves like men, for our Religion &amp; Country, now or never, The Kings heart is Proteſtant, but our friends can perſwade Him, and make him be<g ref="char:EOLhyphen"/>leeve any thing, he hates the Puritane party, and is made Irreconcileable to that ſide; ſo that the Sun, the Moon, and Starres, are for us: there are no leſſe then twenty thouſand Miniſters in <hi>England,</hi> the greater half will in their places, be our friends to avenge the Biſhops diſhonour, Let our friends be incouraged, the worke is more then halfe done.</p>
+                  <closer>
+                     <signed>Your Servant! <hi>R. E.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="part">
+            <pb facs="tcp:156333:4"/>
+            <head>Another Letter ſent to a Papiſt of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Grand Committee of the Parliament ſitting at Grocers Hall <hi>London,</hi> about the waighty affaire of the State of the King<g ref="char:EOLhyphen"/>dome; There was notice brought vnto them of a Letter directed out of <hi>Jreland</hi> to a great perſonage of this City a Papiſt, which Letter by accident comming into the hands of a woman, and the houſekeeper of this Papiſt, vpon great ſuſpition of ſome evill Accidents that might thereby happen, cauſed the ſaid Letter to be opened, where<g ref="char:EOLhyphen"/>by by the great Providence of God, the ſecrets thereof was diſcloſed. The contents thereof was to this effect.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worthy Sir,</salute>
+                  </opener>
+                  <p>OUt of the care of your welfare, I make bold to advertiſe you for your good, that you would be pleaſed ſpeedily to convey your ſelfe and Family out of the City, &amp; that you repaire as farre Northward as conveniently you may, for there is a terrible and ſuddaine blow expected to be given ſhortly againſt the City of <hi>London,</hi> for though I am of opinion the Kings Majeſty be a good Proteſtant in his heart, yet Jam perſwaded that by the perſwa<g ref="char:EOLhyphen"/>ſions of the Queens Majeſty, and the advice of the Catholique Lords and other Gentlemen, the wiſhed deſigne may take full effect. The truth of which premiſſes was delivered to the Court of Aldermen and Common Councell of the City of <hi>London,</hi> from the Committee.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="part">
+            <pb facs="tcp:156333:4" rendition="simple:additions"/>
+            <head>The Copy of a Letter ſent by Mr. <hi>Hearne,</hi> one of the laſt convicted and condemned Jeſuites, vnto one Mr. <hi>Napper</hi> a Catholick, and now an Inhabitant in <hi>Hollowell</hi> in <hi>Oxford, Ian.</hi> 7. 1641.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>WORTHY SIR,</salute>
+                  </opener>
+                  <p>LEt not our preſent danger deterre or affright you from the conſtancy in your profeſſion, let the goodneſſe and Juſtice of your cauſe encourage you, and prevaile over the preſent danger, we think it but our duty to ſuffer for the Law and dignity of our Religion, &amp; it is our credit that we are thought worthy to be ſubjects of this preſent perſecution, The benefit J could not performe to the Church of <hi>Rome</hi> in my life-time, I ſhall be glad to finiſh with the Seale of my blood, I am provided for the preſent hazard, and expect nothing but preſent de<g ref="char:EOLhyphen"/>ſtruction, let not your Prayers be wanting for our eternall welfare, interceed for us, that we may ob<g ref="char:EOLhyphen"/>taine the merited reward of our labours, bee you conſtant in the faith, and not diſmay with the pre<g ref="char:EOLhyphen"/>ſent troubles of the times, for you ſhall ſhortly ſee an iſſue o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all theſe things, and we hope ſhort<g ref="char:EOLhyphen"/>ly that the diſtractions and diſtempers of the King and Parliament, with the feares and inſurrections of the City of <hi>London,</hi> and generally over all the Kingdome will worke for our good, and bring <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Period to the cruell Tyrannies which the Here<g ref="char:EOLhyphen"/>tiques
+<pb facs="tcp:156333:5"/>of this Kingdome inflict upon us, and the Sunne which now ſeemes ſet, will ariſe againe, that we ſhall ſee glorious dayes, your conſtancy and perſeverance cannot want its reward, J muſt be ſhort, and take my leave, for J have much to doe, Farewell.</p>
+                  <closer>
+                     <dateline>From the Priſon at <hi>New<g ref="char:EOLhyphen"/>gate,</hi> 
+                        <date>
+                           <hi>Jan.</hi> 5. 1641.</date>
+                     </dateline>
+                     <signed>Your conſtant friend and welwiſher. <hi>J. Hearne.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
